@@ -2,43 +2,30 @@
 Weekly Indian Power Sector Regulatory Analysis
 # Weekly Indian Power Sector Regulatory & Market Intelligence Report
 
-## About This Project
+# Indian Power Market Dashboard
 
-This repository contains weekly analysis of:
+## Objective
 
-* Power sector regulations
-* Renewable energy policy
-* Electricity market developments
-* Transmission and grid updates
-* Open access and RE trends in India
+This dashboard tracks:
 
----
+* DAM prices
+* RTM trends
+* Renewable penetration
+* Peak demand
+* Market volatility
 
-# Week 1 Analysis
+## Tools Used
 
-## CERC RTM Discussion Paper
+* Power BI
+* Excel
+* GitHub
 
-### Summary
+## Data Sources
 
-CERC proposed reducing the Real-Time Market scheduling timeline from 15 minutes to 5 minutes.
+* IEX
+* GRID-INDIA
+* CERC
 
-### Possible Impact
-
-* Better renewable energy integration
-* Reduced forecasting error
-* Improved balancing efficiency
-
-### My Analysis
-
-This proposal may help increase flexibility in the Indian power market and support higher renewable penetration.
-
----
-
-## Green Open Access Developments
-
-### Key Observation
-
-Several states are simplifying approval procedures for green open access consumers.
 
 ### Market Impact
 
